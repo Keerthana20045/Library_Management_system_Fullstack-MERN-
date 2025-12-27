@@ -3,7 +3,8 @@
 Project Description
 
 The Library Management System is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This system is designed to automate and digitize library operations, making it easier for librarians and users to manage books, members, and borrowing activities efficiently.
-Key Features
+
+=>Key Features
 
 User Authentication & Authorization using JWT
 
@@ -24,7 +25,7 @@ Responsive UI built with React
 MongoDB Database for scalable data storage
 
 
-Technology Stack
+=>Technology Stack
 
 Frontend: React.js, HTML, CSS, JavaScript
 
@@ -35,4 +36,5 @@ Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 
 API Architecture: RESTful APIs
+
 
