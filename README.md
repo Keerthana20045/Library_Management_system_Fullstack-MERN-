@@ -22,6 +22,8 @@ Secure RESTful APIs
 Responsive UI built with React
 
 MongoDB Database for scalable data storage
+
+
 Technology Stack
 
 Frontend: React.js, HTML, CSS, JavaScript
@@ -33,3 +35,4 @@ Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 
 API Architecture: RESTful APIs
+
